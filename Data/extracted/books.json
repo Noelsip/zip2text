@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Clean Code",
+    "price": "$25.00",
+    "description": "A Handbook of Agile Software Craftsmanship yang membahas prinsip, pola, dan praktik untuk menulis kode yang bersih."
+  },
+  {
+    "name": "Introduction to Algorithms",
+    "price": "$45.00",
+    "description": "Buku klasik CLRS yang menjelaskan algoritma dengan detail teori dan praktik."
+  },
+  {
+    "name": "Design Patterns",
+    "price": "$30.00",
+    "description": "Panduan untuk reusable object-oriented software design patterns yang dipopulerkan oleh GoF."
+  },
+  {
+    "name": "Refactoring",
+    "price": "$28.00",
+    "description": "Improving the design of existing code dengan berbagai teknik refactoring."
+  }
+]
