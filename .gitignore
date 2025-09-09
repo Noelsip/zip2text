@@ -1,7 +1,7 @@
 package*.json
- node_modules/
+node_modules/
  .vscode/
  .DS_Store
  .env
-.Data/
- books.zip
+Data/
+books.zip
