@@ -1,7 +1,23 @@
-package*.json
+# Node.js dependencies
 node_modules/
- .vscode/
- .DS_Store
- .env
-Data/
-books.zip
+package-lock.json
+package*.json
+
+# Editor/OS specific
+.vscode/
+.DS_Store
+
+# Environment variables
+.env
+
+# Build/output/temp
+dist/
+build/
+tmp/
+out/
+
+# Project specific
+Data/extracted/
+Data/*.zip
+
+*.zip
